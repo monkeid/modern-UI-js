@@ -469,6 +469,12 @@ export const projects = [
     webapp: "https://podstream.netlify.app/",
     member: [
       {
+        name: "Jack Oraro",
+        img: "https://avatars.githubusercontent.com/u/146010192?v=4",
+        linkedin: "https://www.linkedin.com/in/jack-ochieng-237813253/",
+        github: "https://github.com/monkeid/",
+      },
+      {
         name: "Rishav Chanda",
         img: "https://avatars.githubusercontent.com/u/64485885?v=4",
         linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
@@ -517,6 +523,12 @@ export const projects = [
     member: [
       {
         name: "Jack Oraro",
+        img: "https://avatars.githubusercontent.com/u/146010192?v=4",
+        linkedin: "https://www.linkedin.com/in/jack-ochieng-237813253/",
+        github: "https://github.com/monkeid/",
+      },
+      {
+        name: "Rishav Chanda",
         img: "https://avatars.githubusercontent.com/u/64485885?v=4",
         linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
         github: "https://github.com/monkeid/",
